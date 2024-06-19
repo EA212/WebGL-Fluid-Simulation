@@ -1,6 +1,8 @@
 /*
 MIT License
+MIT 许可证
 
+版权所有 (c) 2017 Pavel Dobryakov
 Copyright (c) 2017 Pavel Dobryakov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -10,8 +12,12 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
+本授权允许免费地、无限制地授予任何获得本软件及其相关文档文件（以下简称“软件”）副本的个人，有权进行以下活动：使用、复制、修改、合并、发布、分发、再授权及/或销售软件的副本，并允许向获得该软件的人实施同样的权利，须遵守以下条件：
+
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+所有软件的副本或实质部分都必须包含上述版权声明和本许可通知。
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -20,6 +26,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+软件以“现状”方式提供，无论明示或默示，包括但不限于对商品性、特定用途的适用性及不侵权的默示保证，在任何情况下，作者或版权持有者不对任何索赔、损害或其他责任负责，无论这些责任来自合同、侵权或其他行为，与软件或其使用及其他处置有关。
 */
 
 'use strict';
